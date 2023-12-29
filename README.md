@@ -1,3 +1,5 @@
+DATE:
+
 # Correlation and regression for data analysis
 # Aim : 
 
@@ -20,10 +22,17 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
+DEVELOPED BY S.VENGADA KRISHNAN
+
+REG.NO:23006109
 
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
+# Output
+
+![3 out](https://github.com/SVENGADAKRISHNAN/Correlation_Regression/assets/147473084/97df9b79-ce7b-4411-8fb8-82eafd16c775)
 
 # Result
 
-# Output 
+![3 result](https://github.com/SVENGADAKRISHNAN/Correlation_Regression/assets/147473084/5de656db-e6dc-46be-975b-53b44680c220)
+
